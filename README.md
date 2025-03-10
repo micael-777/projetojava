@@ -1,4 +1,3 @@
-# projetojava
 # Esse é o meu primeiro projeto JAVA.
 ## Aluno: Micael Alves Freire
 
